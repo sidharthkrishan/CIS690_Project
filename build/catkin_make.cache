@@ -1,0 +1,2 @@
+Object_Recognition_model/models_spawn_library:Object_Recognition_model/spawn_robot_tools_pkg:Object_Recognition_model/tensorflow_gopigo:Reinforcement_Learning/gopigo3_dqn:Reinforcement_Learning/gopigo3_gazebo:Reinforcement_Learning/gopigo3_model
+-DCATKIN_DEVEL_PREFIX=/home/sid/CIS690/devel -DCMAKE_INSTALL_PREFIX=/home/sid/CIS690/install -G Unix Makefiles

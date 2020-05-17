@@ -1,0 +1,8 @@
+prefix=/home/sid/CIS690/install
+
+Name: models_spawn_library
+Description: Description of models_spawn_library
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/sid/CIS690/install
+
+Name: tf_gopigo
+Description: Description of tf_gopigo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
